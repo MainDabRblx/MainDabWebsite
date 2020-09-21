@@ -29820,9 +29820,11 @@ a.u-link.u-text-hover-grey-90:hover {
  .u-header .u-sheet-1 {min-height: 123px}
 .u-header .u-image-1 {margin: 16px auto 0 16px}
 .u-header .u-logo-image-1 {max-width: 81px; max-height: 81px}
-.u-header .u-text-1 {font-weight: 700; font-size: 3rem; margin: -67px auto 40px 325px} 
+.u-header .u-text-1 {font-weight: 700; font-size: 3rem; margin: -67px auto 0 325px}
+.u-header .u-btn-1 {margin: -46px 26px 40px auto; padding: 10px 13px 10px 13px} 
 @media (max-width: 1199px){ .u-header .u-image-1 {margin-left: 0; width: 64px; height: 32px}
-.u-header .u-text-1 {margin-top: -67px; margin-left: 325px} }
+.u-header .u-text-1 {margin-top: -67px; margin-left: 325px; margin-bottom: 40px}
+.u-header .u-btn-1 {margin-top: -46px; margin-right: 0} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
 
